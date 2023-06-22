@@ -12,9 +12,14 @@
     "deploy": "shopify app deploy"
   },
   "dependencies": {
+    "@remix-run/router": "^1.6.3",
     "@shopify/app": "3.46.5",
     "@shopify/cli": "3.46.5",
-    "react": "^17.0.2"
+    "@shopify/polaris-icons": "^7.1.0",
+    "dom-helpers": "^5.2.1",
+    "prop-types": "^15.8.1",
+    "react": "^17.0.2",
+    "react-router": "^6.13.0"
   },
   "author": "yudaikato",
   "private": true,
